@@ -1,0 +1,13 @@
+{
+  "name": "jekyll-theme-linz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Blayne Chard <bchard@linz.govt.nz>",
+  "license": "MIT",
+  "scripts": {
+    "import": "./import-lui.sh"
+  },
+  "devDependencies": {
+    "@linzjs/lui": "^10.5.2"
+  }
+}
