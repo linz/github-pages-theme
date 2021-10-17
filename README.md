@@ -9,5 +9,5 @@ LINZ github pages theme
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: linz/github-pages-theme
+remote_theme: linz/github-pages-theme
 ```
