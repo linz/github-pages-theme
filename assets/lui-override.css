@@ -11,5 +11,5 @@ ul,ol {
 ol li,
 ul li {
     margin: 4px;
-    padding: 4px;
+    padding: 0 8px;
 }

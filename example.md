@@ -94,3 +94,36 @@ def bar(f: str) -> int:
 remote_theme: linz/github-pages-theme
 title: 'Github Pages Test'
 ```
+
+
+
+## Lists
+
+Unordered using `*`
+
+* Red
+* Green
+* Blue
+
+Unordered using `-`
+
+- Red
+- Green
+- Blue
+
+Ordered
+
+1. Red
+2. Green
+3. Blue
+
+
+### Sub Lists
+
+- Foo
+  - Bar
+    - Baz
+  - Bar2
+    - Baz2
+- Foo2
+  - Bar3
